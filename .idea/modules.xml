@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PRACTICE.iml" filepath="$PROJECT_DIR$/PRACTICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter.iml" filepath="$PROJECT_DIR$/filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab6/lab6.iml" filepath="$PROJECT_DIR$/../lab6/lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab61/lab61.iml" filepath="$PROJECT_DIR$/../lab61/lab61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab6/lab_work.iml" filepath="$PROJECT_DIR$/../lab6/lab_work.iml" />
     </modules>
   </component>
 </project>
